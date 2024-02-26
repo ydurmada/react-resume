@@ -24,7 +24,8 @@ export const resumeData = {
   ],
   portfolio: [
     '<a href="https://github.com/ydurmada/react-resume">This resume</a> built in React',
-    '<a href="https://lppqtf.csb.app/">React tic tac toe</a> with all challenges completed.',
+    '<a href="https://adams-portfolio.myshopify.com/">Shopify store</a> (pw: see-my-portfolio)',
+    '<a href="https://lppqtf.csb.app/">React tic tac toe</a> (<a href="https://codesandbox.io/p/sandbox/serene-night-lppqtf">code</a>) with all challenges completed.',
     "Configured OpenBlocks (like Retool, Appsmith) on VM and used to build Low-code apps for CHOC Network Engineers.",
   ],
   "experience history": [
